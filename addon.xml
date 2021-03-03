@@ -11,11 +11,11 @@
     <provides>executable</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-      <summary lang="en">Map multiple XBMC commands to one remote button. All availabe commands: http://wiki.xbmc.org/?title=List_of_Built_In_Functions</summary>
-      <summary lang="de">Mehrere XBMC Befehle einer Taste zuweisen. Alle verfügbaren Befehle: http://wiki.xbmc.org/?title=List_of_Built_In_Functions</summary>
+      <summary lang="en">Map multiple XBMC commands to one remote button. All availabe commands: https://kodi.wiki/view/List_of_built-in_functions</summary>
+      <summary lang="de">Mehrere XBMC Befehle einer Taste zuweisen. Alle verfügbaren Befehle: https://kodi.wiki/view/List_of_built-in_functions</summary>
       <language></language>
-      <description lang="en">Map multiple XBMC commands to one remote button. All availabe commands: http://wiki.xbmc.org/?title=List_of_Built_In_Functions</description>
-      <description lang="de">Mehrere XBMC Befehle einer Taste zuweisen. Alle verfügbaren Befehle: http://wiki.xbmc.org/?title=List_of_Built_In_Functions</description>
+      <description lang="en">Map multiple XBMC commands to one remote button. All availabe commands: https://kodi.wiki/view/List_of_built-in_functions</description>
+      <description lang="de">Mehrere XBMC Befehle einer Taste zuweisen. Alle verfügbaren Befehle: https://kodi.wiki/view/List_of_built-in_functions</description>
       <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
       <source>https://github.com/AddonScriptorDE/script.commands</source>
       <forum>http://forum.xbmc.org/showthread.php?tid=134129</forum>
