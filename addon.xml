@@ -2,7 +2,7 @@
 <addon id="script.commands"
        name="Commands"
        version="1.1.0"
-       provider-name="AddonScriptorDE">
+       provider-name="AddonScriptorDE, Roman Smolka">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
   </requires>
@@ -14,12 +14,9 @@
       <summary lang="en">Map multiple XBMC commands to one remote button. All availabe commands: https://kodi.wiki/view/List_of_built-in_functions</summary>
       <summary lang="de">Mehrere XBMC Befehle einer Taste zuweisen. Alle verfügbaren Befehle: https://kodi.wiki/view/List_of_built-in_functions</summary>
       <language></language>
-      <description lang="en">Map multiple XBMC commands to one remote button. All availabe commands: https://kodi.wiki/view/List_of_built-in_functions</description>
-      <description lang="de">Mehrere XBMC Befehle einer Taste zuweisen. Alle verfügbaren Befehle: https://kodi.wiki/view/List_of_built-in_functions</description>
       <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
       <source>https://github.com/AddonScriptorDE/script.commands</source>
       <forum>http://forum.xbmc.org/showthread.php?tid=134129</forum>
-      <email>AddonScriptorDE at yahoo dot de</email>
       <website></website>
   </extension>
 </addon>
