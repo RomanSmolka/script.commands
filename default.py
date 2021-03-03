@@ -1,6 +1,4 @@
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-import xbmc, xbmcgui, xbmcaddon, locale, sys, urllib, urllib2, re, os
+import xbmc, xbmcgui, xbmcaddon, locale, sys, re, os
 
 addonID = "script.commands"
 addon_work_folder=xbmc.translatePath("special://profile/addon_data/"+addonID)

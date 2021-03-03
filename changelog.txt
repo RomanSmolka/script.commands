@@ -5,3 +5,5 @@
 1.0.2
 - Added some commands to the list
 - Added support for command combinations
+1.1.0
+- Migrated to Python 3
