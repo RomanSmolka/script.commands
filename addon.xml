@@ -18,5 +18,8 @@
       <source>https://github.com/AddonScriptorDE/script.commands</source>
       <forum>http://forum.xbmc.org/showthread.php?tid=134129</forum>
       <website></website>
+      <assets>
+        <icon>icon.png</icon>
+      </assets>
   </extension>
 </addon>
